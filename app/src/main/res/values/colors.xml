@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#4F4FD5</color>
+    <color name="purple_500">#6A83C6</color>
+    <color name="purple_700">#06163C</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#D7D8DF</color>
+    <color name="white">#5C5CB6</color>
+
+</resources>
